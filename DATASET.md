@@ -15,6 +15,11 @@ URL: https://github.com/rkadlec/ubuntu-ranking-dataset-creator
 Paper: https://arxiv.org/abs/1506.08909
 Description: A dataset containing almost 1 million multi-turn dialogues, with a total of over 7 million utterances and 100 million words.
 
+## Bilingual Sentence Pairs for Translation:
+URL: http://www.manythings.org/anki/  
+Description: Tab-delimited Bilingual Sentence Pairs.
+
+
 ## Other open source dataset: 
 URLs:
 * https://machinelearningmastery.com/datasets-natural-language-processing/

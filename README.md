@@ -28,18 +28,18 @@ Practice code on Kaggle's Toxic Comment Classification Challenge dataset
     1. IMDB review dataset
     2. Kaggle (Toxic comment classification challenge) Wikipedia comment dataset
     3. Ubuntu dialog corpora
+    4. Translation dataset
+    5. Other datasets
 
-4. [Sequence Representation](Sequence Representation.ipynb)
+4. [Sequence Representation](SequenceRepresentation.ipynb)
     1. Tokenization
     2. One Hot Encoding
     3. Word Embeddings
         * Word2vec
         * GloVe
 
-5. [Data Analysis](Data Analysis.ipynb)
+5. [Data Analysis](DataAnalysis.ipynb)
     1. General Analysis
-    2. Tokenization
-    3. Split training data into training and validation
 
 6. [Models](Models.ipynb)
     1. Embedding to Class
@@ -49,7 +49,9 @@ Practice code on Kaggle's Toxic Comment Classification Challenge dataset
 7. Modern RNN architecture
     1. Long short-term memory (LSTM)
     2. Gater Recurrent Unit (GRU)
-    3. Attention
+    3. Seq2seq
+    4. Attention
+    5. Beam Search 
 
 8. Keras
     1. API
