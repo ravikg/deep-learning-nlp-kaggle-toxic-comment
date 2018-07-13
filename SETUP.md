@@ -45,7 +45,7 @@ $ source bin/activate
 7. Go to code
 
 ```bash
-(deep-learn) $ cd ../../code/deeplearning/kaggle-toxic-comment/
+(deep-learn) $ cd ~/code/deeplearning/deep-learning-nlp-kaggle-toxic-comment/
 ```
 
 8. Start the jupyter notebook
