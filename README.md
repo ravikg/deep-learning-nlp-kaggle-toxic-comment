@@ -54,7 +54,11 @@ Practice code on Kaggle's Toxic Comment Classification Challenge dataset
     5. Beam Search 
 
 8. Keras
-    1. API
+    1. API & keywords
+        1. Optimizers
+        2. Loss
+        3. Activation
+        4. Metrics
     2. Deploy model to production and inference
 
 9. Model optimization techniques
