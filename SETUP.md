@@ -17,7 +17,8 @@ $ pip install virtualenv
 ```
 
 4. Create an environment for development  
-In an environment we will have python3.6 as the default python version and same with pip. Also all dependencies will remain confined to this particular environment and it will not conflict with other python setup in the system.
+In an environment we will have python3.6 as the default python version and same with pip. Also all dependencies will
+ remain confined to this particular environment and it will not conflict with other python setup in the system.
 
 ```bash
 $ mkdir virtualenvs-dev
@@ -33,7 +34,8 @@ $ source bin/activate
 (deep-learn)$ 
 ```
 
-6. Install required packages using pip within the active virtualenv
+6. Install required packages using pip within the active virtualenv, these libraries will install other required 
+libraries e.g. scikit, numpy etc.
 
 ```bash
 (deep-learn)$ pip install -U keras

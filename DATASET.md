@@ -1,26 +1,24 @@
-# Datasets
+## Datasets
 
-## IMBD Review:
-URL: http://ai.stanford.edu/~amaas/data/sentiment/
+### IMDB Review:
+Description: Movie reviews for binary sentiment classification. 25k reviews for training, 25k for testing and unlabelled data.  
+URL: [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 
-Description: Movie reviews for binary sentiment classification. 25k reviews for training, 25k for testing and unlabelled data.
+### Kaggle (Toxic Comment Classification Challenge):
+Description: Comments from Wikipedia's talk page edits, for toxicity classification.  
+URL: [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
 
-## Kaggle (Toxic Comment Classification Challenge):
-URL: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+### Ubuntu Dialog Corpora: 
+Description: A dataset containing almost 1 million multi-turn dialogues, with a total of over 7 million utterances and 100 million words.  
+URL: https://github.com/rkadlec/ubuntu-ranking-dataset-creator  
+Paper: [
+The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](https://arxiv.org/abs/1506.08909)
 
-Description: Comments in wikipedia changes, for toxicity classification.
-
-## Ubuntu Dialog Corpora: 
-URL: https://github.com/rkadlec/ubuntu-ranking-dataset-creator
-Paper: https://arxiv.org/abs/1506.08909
-Description: A dataset containing almost 1 million multi-turn dialogues, with a total of over 7 million utterances and 100 million words.
-
-## Bilingual Sentence Pairs for Translation:
+### Bilingual Sentence Pairs for Translation:
 URL: http://www.manythings.org/anki/  
 Description: Tab-delimited Bilingual Sentence Pairs.
 
-
-## Other open source dataset: 
+### Other open source dataset: 
 URLs:
 * https://machinelearningmastery.com/datasets-natural-language-processing/
 * https://github.com/karthikncode/nlp-datasets

@@ -1,28 +1,41 @@
 # Deep Learning for NLP
 
-Practice code on Kaggle's Toxic Comment Classification Challenge dataset
+This tutorial is an introduction of using Deep Learning algorithm in the domain of Natural Language Processing.  
+
+And it is prepared using content (theory and code) from following sources:
+
+1. [Deep Learning with Python, Book by François Chollet](https://www.manning.com/books/deep-learning-with-python)
+2. [Neural Network Methods in Natural Language Processing, Book by Yoav Goldberg](https://www.morganclaypool.com/doi/10.2200/S00762ED1V01Y201703HLT037)
+3. [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+
+Practice code on [Kaggle's Toxic Comment Classification Challenge dataset](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 ## Table of Contents
 
-1. Use Cases
+1. [Use Cases](USECASES.md)
     1. Sequence classification
-        1. Sentiment classificaiton
-        2. Name gender classification
+        1. Language detection
+        2. Category classification (Sentiment, topics etc.)
+        3. Keyword classification (name-gender, place/person name)
     2. Sequence to sequence (Seq2Seq)
         1. Translation
         2. Gmail smart reply
         3. Conversational AI: Chat bots
-    3. Sequence generator
+    3. Others
         1. Name, Story, poem, dialog generator
         2. Image captioning
+        3. Part of speech tagging
+        4. Name entity recognition
 
 2. [System Setup](SETUP.md)
     1. Python 3.6
     2. pip
     3. Virtualenv
-    4. Keras, Tensorflow
-    5. Jupyter
-    6. Libraries: matplotlib, scikit, numpy
+    4. Libraries: 
+        - Keras
+        - Tensorflow
+        - Jupyter
+        - matplotlib
 
 3. [Datasets to play](DATASET.md)
     1. IMDB review dataset
