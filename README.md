@@ -45,11 +45,12 @@ Practice code on [Kaggle's Toxic Comment Classification Challenge dataset](https
     5. Other datasets
 
 4. [Sequence Representation](SequenceRepresentation.ipynb)
-    1. Tokenization
+    1. Representation
     2. One Hot Encoding
     3. Word Embeddings
-        * Word2vec
-        * GloVe
+        * Pre trained embeddings
+            * Word2vec
+            * GloVe
 
 5. [Data Analysis](DataAnalysis.ipynb)
     1. General Analysis
