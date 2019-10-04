@@ -60,7 +60,7 @@ Practice code on [Kaggle's Toxic Comment Classification Challenge dataset](https
     2. Embedding connected to 1 layer RNN (Recurrent Neural Network)
     3. Bidirectional RNN
 
-7. Modern RNN architecture
+7. [Modern RNN architecture](ComplexModels.ipynb)
     1. Long short-term memory (LSTM)
     2. Gater Recurrent Unit (GRU)
     3. Seq2seq
