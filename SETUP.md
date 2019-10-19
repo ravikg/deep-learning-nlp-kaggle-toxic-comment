@@ -42,6 +42,7 @@ libraries e.g. scikit, numpy etc.
 (deep-learn)$ pip install -U jupyter
 (deep-learn)$ pip install -U matplotlib
 (deep-learn)$ pip install -U tensorflow
+(deep-learn)$ pip install -U pandas
 ```
 
 7. Go to code

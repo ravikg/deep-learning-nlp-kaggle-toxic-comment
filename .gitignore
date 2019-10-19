@@ -104,3 +104,5 @@ output/
 
 # pycharm
 .idea
+
+mlruns
