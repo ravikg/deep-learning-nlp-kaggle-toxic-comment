@@ -12,7 +12,7 @@ Practice code on [Kaggle's Toxic Comment Classification Challenge dataset](https
 
 ## Table of Contents
 
-1. [Use Cases](USECASES.md)
+1. [Use Cases](notebooks/USECASES.md)
     1. Sequence classification
         1. Language detection
         2. Category classification (Sentiment, topics etc.)
@@ -27,7 +27,7 @@ Practice code on [Kaggle's Toxic Comment Classification Challenge dataset](https
         3. Part of speech tagging
         4. Name entity recognition
 
-2. [System Setup](SETUP.md)
+2. [System Setup](notebooks/SETUP.md)
     1. Python 3.6
     2. pip
     3. Virtualenv
@@ -37,14 +37,14 @@ Practice code on [Kaggle's Toxic Comment Classification Challenge dataset](https
         - Jupyter
         - matplotlib
 
-3. [Datasets to play](DATASET.md)
+3. [Datasets to play](notebooks/DATASET.md)
     1. IMDB review dataset
     2. Kaggle (Toxic comment classification challenge) Wikipedia comment dataset
     3. Ubuntu dialog corpora
     4. Translation dataset
     5. Other datasets
 
-4. [Sequence Representation](SequenceRepresentation.ipynb)
+4. [Sequence Representation](notebooks/SequenceRepresentation.ipynb)
     1. Representation
     2. One Hot Encoding
     3. Word Embeddings
@@ -52,15 +52,15 @@ Practice code on [Kaggle's Toxic Comment Classification Challenge dataset](https
             * Word2vec
             * GloVe
 
-5. [Data Analysis](DataAnalysis.ipynb)
+5. [Data Analysis](notebooks/DataAnalysis.ipynb)
     1. General Analysis
 
-6. [Models](Models.ipynb)
+6. [Models](notebooks/Models.ipynb)
     1. Embedding to Class
     2. Embedding connected to 1 layer RNN (Recurrent Neural Network)
     3. Bidirectional RNN
 
-7. [Modern RNN architecture](ComplexModels.ipynb)
+7. [Modern RNN architecture](notebooks/ComplexModels.ipynb)
     1. Long short-term memory (LSTM)
     2. Gater Recurrent Unit (GRU)
     3. Seq2seq
