@@ -44,16 +44,16 @@ Practice code on [Kaggle's Toxic Comment Classification Challenge dataset](https
     4. Translation dataset
     5. Other datasets
 
-4. [Sequence Representation](notebooks/SequenceRepresentation.ipynb)
+4. [Data Analysis](notebooks/DataAnalysis.ipynb)
+    1. General Analysis
+
+5. [Sequence Representation](notebooks/SequenceRepresentation.ipynb)
     1. Representation
     2. One Hot Encoding
     3. Word Embeddings
         * Pre trained embeddings
             * Word2vec
             * GloVe
-
-5. [Data Analysis](notebooks/DataAnalysis.ipynb)
-    1. General Analysis
 
 6. [Models](notebooks/Models.ipynb)
     1. Embedding to Class

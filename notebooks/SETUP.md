@@ -57,3 +57,10 @@ libraries e.g. scikit, numpy etc.
 (deep-learn) $ jupyter notebook
 ```
 You can see the notebooks by going to http://localhost:8888/tree
+
+
+Or you can run docker container  
+
+```bash
+$ docker-compose up
+```
