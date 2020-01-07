@@ -1,5 +1,13 @@
 # System Setup
 
+You can run docker container  
+
+```bash
+$ docker-compose up
+```
+
+Or if you want to setup individual dependency separately  
+
 1. Download and install Python 3.6
 
 2. Install pip using Python 3.6
@@ -59,8 +67,3 @@ libraries e.g. scikit, numpy etc.
 You can see the notebooks by going to http://localhost:8888/tree
 
 
-Or you can run docker container  
-
-```bash
-$ docker-compose up
-```
