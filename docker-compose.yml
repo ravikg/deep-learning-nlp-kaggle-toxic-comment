@@ -1,6 +1,6 @@
 version: '3.6'
 services:
-  jupter-notebook:
+  jupyter-notebook:
     ports:
       - 8888:8888
     volumes:
