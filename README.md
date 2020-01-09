@@ -44,10 +44,10 @@ Practice code on [Kaggle's Toxic Comment Classification Challenge dataset](https
     4. Translation dataset
     5. Other datasets
 
-4. [Data Analysis](notebooks/DataAnalysis.ipynb)
+4. [Data Analysis](notebooks/Data_Analysis.ipynb)
     1. General Analysis
 
-5. [Sequence Representation](notebooks/SequenceRepresentation.ipynb)
+5. [Sequence Representation](notebooks/Sequence_Representation.ipynb)
     1. Representation
     2. One Hot Encoding
     3. Word Embeddings
@@ -55,12 +55,12 @@ Practice code on [Kaggle's Toxic Comment Classification Challenge dataset](https
             * Word2vec
             * GloVe
 
-6. [Models](notebooks/Models.ipynb)
-    1. Embedding to Class
-    2. Embedding connected to 1 layer RNN (Recurrent Neural Network)
-    3. Bidirectional RNN
+6. Models
+    1. Embedding to Class [Model 1](notebooks/Model_1.ipynb)
+    2. Embedding connected to 1 layer RNN (Recurrent Neural Network) [Model 2](notebooks/Model_2.ipynb) and [Model 2 Extended](notebooks/Model_2_Extended.ipynb)
+    3. Bidirectional RNN [Model 3](notebooks/Model_3.ipynb) and [Model 3 Extended](notebooks/Model_3_Extended.ipynb)
 
-7. [Modern RNN architecture](notebooks/ComplexModels.ipynb)
+7. [Modern RNN architecture](notebooks/Misc/ComplexModels.ipynb)
     1. Long short-term memory (LSTM)
     2. Gater Recurrent Unit (GRU)
     3. Seq2seq
