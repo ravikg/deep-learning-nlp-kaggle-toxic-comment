@@ -105,3 +105,6 @@ output/
 .idea
 
 mlruns
+
+notebooks/storage/dataset/test.csv
+notebooks/storage/dataset/train.csv
